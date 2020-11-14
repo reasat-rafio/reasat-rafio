@@ -38,6 +38,13 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reasat-rafio&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://al-reasat-rafio.netlify.app
 [twitter]: https://twitter.com/ar_rafffio
 [instagram]: https://www.instagram.com/reasat_rafio
