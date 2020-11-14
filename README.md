@@ -10,6 +10,8 @@
 -  🥅 2020 Goals: Becoming master of MERN stack
 -  ⚡ Fun fact: I love to play soccer and love 80's rock
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="al-reasat-rafio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,7 +19,9 @@
 [<img align="left" alt="al-reasat-rafio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="al-reasat-rafio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+## <br />
+
+---
 
 ### Languages and Tools:
 
@@ -38,16 +42,15 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reasat-rafio&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reasat-rafio&show_icons=true&hide_border=true&theme=radical" />
 
-</details>
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reasat-rafio&layout=compact)](https://github.com/reasat-rafio/github-readme-stats)
 
 [website]: https://al-reasat-rafio.netlify.app
 [twitter]: https://twitter.com/ar_rafffio
 [instagram]: https://www.instagram.com/reasat_rafio
 [linkedin]: https://www.linkedin.com/in/al-reasat-rafio-594718194
-
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
