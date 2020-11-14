@@ -42,9 +42,12 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
+### zap: GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reasat-rafio&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reasat-rafio&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<br/>
+<br/>
 
 ---
 
