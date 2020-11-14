@@ -4,7 +4,10 @@
 
 [![Website](https://img.shields.io/website?label=al-reasat-rafio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://al-reasat-rafio.netlify.app/)
 [<img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" />][messenger]
-[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 
 </img>
 
@@ -50,10 +53,11 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reasat-rafio&layout=compact)](https://github.com/reasat-rafio/github-readme-stats)
-
 [website]: https://al-reasat-rafio.netlify.app
 [twitter]: https://twitter.com/ar_rafffio
 [instagram]: https://www.instagram.com/reasat_rafio
 [linkedin]: https://www.linkedin.com/in/al-reasat-rafio-594718194
 [messenger]: https://www.facebook.com/messages/t/alreasat.rafio
-[gmail]: <a href="mailto: al.rafio@gmail.com " />
+[reddit]: https://www.reddit.com/user/Reasat_RafXO
+[medium]: https://medium.com/@rafioar96
+[whatsapp]: https://api.whatsapp.com/send?phone=8801891792185
