@@ -4,14 +4,14 @@
 
 [![Website](https://img.shields.io/website?label=al-reasat-rafio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://al-reasat-rafio.netlify.app/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ar_rafffio?color=1DA1F2&logo=twitter&style=for-the-badge)
-![Messenger](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)
+<img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" alt="messenger" />
 
 ## I'm a Student, Gamer and Developer!!
 
 -  🌱 I’m currently deep learning MERN stack 🤣
 -  👯 I’m looking to collaborate with other developers
 -  🥅 2020 Goals: Becoming master of MERN stack
--  ⚡ Fun fact: I love to play soccer and love 80's rock
+-  ⚡ Fun fact: I love to play soccer and 80's rock music
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reasat-rafio&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="reast-rafio's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reasat-rafio&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <br/>
 <br/>
