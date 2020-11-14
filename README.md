@@ -56,4 +56,4 @@
 [instagram]: https://www.instagram.com/reasat_rafio
 [linkedin]: https://www.linkedin.com/in/al-reasat-rafio-594718194
 [messenger]: https://www.facebook.com/messages/t/alreasat.rafio
-[gmail]: al.reasat@gmail.com
+[gmail]: <a href="mailto: al.rafio@gmail.com " />
