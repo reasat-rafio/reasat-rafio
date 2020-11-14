@@ -55,7 +55,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reasat-rafio&layout=compact)](https://github.com/reasat-rafio/github-readme-stats)
 
 <br/>
-<br/>
 
 [website]: https://al-reasat-rafio.netlify.app
 [twitter]: https://twitter.com/ar_rafffio
