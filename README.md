@@ -1,7 +1,7 @@
 ### Hi there, I'm Rafio - [website] 👋
 
 [![Website](https://img.shields.io/website?label=al-reasat-rafio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://al-reasat-rafio.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/reasat_rafio⚔?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ar_rafffio)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ar_rafffio?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ar_rafffio)
 
 ## I'm a Student, Gamer and Developer!!
 
