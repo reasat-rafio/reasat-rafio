@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate full-stack developer from Bangladesh 🇧🇩</h3>
 
-[![Website](https://img.shields.io/website?label=al-reasat-rafio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://al-reasat-rafio.netlify.app/)
+<!-- [![Website](https://img.shields.io/website?label=al-reasat-rafio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://al-reasat-rafio.netlify.app/) -->
+
 [<img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" />][messenger]
 [<img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
