@@ -11,7 +11,7 @@
 
 </img>
 
-## I'm a Student, Gamer and Developer!!
+## I'm a Human, Student and Developer!!
 
 -  🌱 I’m currently working on otterdev project
 -  👯 I’m looking to collaborate with other developers
