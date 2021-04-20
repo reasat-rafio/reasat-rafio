@@ -13,9 +13,9 @@
 
 ## I'm a Student, Gamer and Developer!!
 
--  🌱 I’m currently deep learning MERN stack 🤣
+-  🌱 I’m currently working on otterdev project
 -  👯 I’m looking to collaborate with other developers
--  🥅 2020 Goals: Becoming master of MERN stack
+-  🥅 2021 Goals: Going deep with backend technologies
 -  ⚡ Fun fact: I love to play soccer and 80's rock music
 
 ---
