@@ -1,66 +1,103 @@
-### Hi there, I'm Rafio - [website] 👋
+<h1 align="center">
+  <b>Al Reasat Rafio</b>
+</h1>
 
-<h3 align="center">A passionate full-stack developer from Bangladesh 🇧🇩</h3>
+Heya! I'm Al Reasat Rafio, a student currently living in Dhaka, Bangladesh. I'm doing CS student
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+and learning programming through small projects on the side.
 
-[![Website](https://img.shields.io/website?label=al-reasat-rafio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://al-reasat-rafio.netlify.app/)
-[<img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" />][messenger]
-[<img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+<br>
 
-</img>
+<p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-## I'm a Human, Student and Developer!!
+### 🛠 &nbsp;Tech Stack
 
--  🌱 I’m currently working on otterdev project
--  👯 I’m looking to collaborate with other developers
--  🥅 2021 Goals: Going deep with backend technologies
--  ⚡ Fun fact: I love to play soccer and 80's rock music
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+</p>
 
----
+```java
+class Jan Baszczok {
+··// I'm ambitious and love new challenges :)
+··// My vast variety of skills is continuously expanding.
+··constructor() {
+····this.name = 'Jan Baszczok'
+····this.dayOfBirthTimestamp = 602745592
+····this.email = 'baszczok@yasio.dev'
+··}
+··workExperience() {
+····return [
+······{ '2020-now' : 'Full-stack Developer/Owner at Pixel Lab' }
+······{ '2020-now' : 'Full-stack Developer at Digitree Group S.A.' }
+······{ '2017-2020': 'Front-end Developer at Digitree Group S.A.' }
+······{ '2015-2017': 'Full-Stack Designer at Digitree Group S.A.' }
+······{ '2013-2015': 'Graphic Designer at Digitree Group S.A.' }
+······{ '2006-now' : 'Full-Stack Designer/developer at yasio.pl' }
+····]
+··}
+··education() {
+····return [
+······{ '2017-2018': 'Google Developer Challenge Scholarship - Mobile Web Specialist' },
+······{ '2012-2014': 'Wyższa Szkoła Biznesu w Dąbrowie Górniczej - mgr IT' },
+······{ '2008-2012': 'Wyższa Szkoła Technologii Informatycznych w Katowicach - inż. IT' }
+····]
+··}
+··skills() {
+····return [ 'HTML/CSS/JS', 'Vue', 'Node.js', 'jQuery', 'Bootstrap/Bulma/Material Design', 'Webpack/Gulp/Grunt', 'SASS/Less', 'npm/yarn/bower', 'Docker', 'PWA', 'SSR', 'SPA', 'GIT/CVS', 'Cordova', 'NativeScript', 'Electron', 'Web-extensions', 'Web Sockets', 'Firebase, 'RWD/W3C/ARIA/WCAG', 'XSLT', 'Smarty/Twig', 'PHP', 'MySQL/NoSQL', 'Wordpress', 'Photoshop', 'Illustrator', 'After Effects', 'Premiere', 'Motion design', 'UX/UI', 'DTP', 'C#', 'Unity', 'TypeScript', 'NestJS'  ]
+··}
 
-### Connect with me:
+```
 
-[<img align="left" alt="al-reasat-rafio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="al-reasat-rafio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="al-reasat-rafio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="al-reasat-rafio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
-## <br />
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/31rl2jnzeabxo5kfeqn3rnzdaviq">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
----
-
-### Languages and Tools:
-
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<br />
-<br />
-
----
-
-### GitHub Stats
-
-  <img align="left" alt="reast-rafio's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reasat-rafio&show_icons=true&hide_border=true&theme=tokyonight" />
+## My Statistics
 
 <br/>
-<br/>
+<p align="left">
+  <a href="https://reasat-rafio.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=reasat-rafio&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=reasat-rafio&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
----
+[![Reasat Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=reasat-rafio&custom_title=Reasat%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://reasat-rafio.dev)
 
-<br/>
-<br/>
+------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reasat-rafio&layout=compact)](https://github.com/reasat-rafio/github-readme-stats)
+Credit: [abhigyantrips](https://github.com/reasat-rafio)
 
-<br/>
-
-[website]: https://al-reasat-rafio.netlify.app
-[twitter]: https://twitter.com/ar_rafffio
-[instagram]: https://www.instagram.com/reasat_rafio
-[linkedin]: https://www.linkedin.com/in/al-reasat-rafio-594718194
-[messenger]: https://www.facebook.com/messages/t/alreasat.rafio
-[reddit]: https://www.reddit.com/user/Reasat_RafXO
-[medium]: https://medium.com/@rafioar96
-[whatsapp]: https://api.whatsapp.com/send?phone=8801891792185
+Last Edited on: 24/12/2021
