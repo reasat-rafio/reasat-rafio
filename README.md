@@ -44,7 +44,7 @@ class ReasatRafio {
 ··}
 ··workExperience() {
 ····return [
-······{ '2021-now' : 'Full-stack Developer at [Otterdev](https://otterdev.io)' }
+······{ '2021-now' : 'Full-stack Developer at otterdev.io' }
 ······{ '2019-now' : 'Full-stack Developer at Edsel.' }
 ····]
 ··}
