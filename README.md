@@ -19,11 +19,13 @@ Heya! I'm Al Reasat Rafio, a CS student currently living in Dhaka, Bangladesh.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;
+![Hono](https://img.shields.io/badge/-Hono-05122A?style=flat&logo=hono)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Sanity](https://img.shields.io/badge/-Sanity-05122A?style=flat&logo=sanity)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
+![Pocketbase](https://img.shields.io/badge/-Pocketbase-05122A?style=flat&logo=pocketbase)&nbsp;
 ![Medusa](https://img.shields.io/badge/-Medusa-05122A?style=flat&logo=medusa)&nbsp;
 ![Vendure](https://img.shields.io/badge/-Vendure-05122A?style=flat&logo=vendure)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
