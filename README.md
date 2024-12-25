@@ -53,7 +53,7 @@ class ReasatRafio {
 ··}
 ··workExperience() {
 ····return [
-······{ '2023-now' : 'Full-stack Developer at Edistys.' }
+······{ '2023-now' : 'CTO and Co-Founder at Edistys.' }
 ······{ '2021-2024' : 'Full-stack Developer at otterdev.io' }
 ····]
 ··}
