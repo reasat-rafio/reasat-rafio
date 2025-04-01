@@ -1,11 +1,13 @@
-<h1 align="center">
-  <b>Al Reasat Rafio</b>
-</h1>
+<div align="center">
+  <img src="/assets/intro.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <h1>Al Reasat Rafio</h1>
+  <div><em>Founder. Developer. Student.</em>
+  <a href="https://al-reasat-rafio.com/">
+   🌐 Check out my portfolio website
+  </a>
+  </div>
 
-Heya! I'm Al Reasat Rafio, a CS student currently living in Dhaka, Bangladesh.
-
-<br>
-
+</div>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -41,7 +43,6 @@ Heya! I'm Al Reasat Rafio, a CS student currently living in Dhaka, Bangladesh.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
-
 ```java
 class ReasatRafio {
 ··// I'm ambitious and love new challenges :)
@@ -67,12 +68,6 @@ class ReasatRafio {
 }
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31rl2jnzeabxo5kfeqn3rnzdaviq">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/31rl2jnzeabxo5kfeqn3rnzdaviq">
@@ -91,9 +86,3 @@ class ReasatRafio {
   </a>
 </p>
 <br>
-
-[![Reasat Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=reasat-rafio&custom_title=Reasat%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://reasat-rafio.dev)
-
-------
-
-Last Edited on: 24/12/2021
